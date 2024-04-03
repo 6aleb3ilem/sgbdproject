@@ -1,0 +1,17 @@
+{
+  "name": "monitorbackend",
+  "version": "1.0.0",
+  "description": "backend for opencart monitoring client SGBD project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bekrin",
+  "license": "ISC",
+  "dependencies": {
+    "cores": "^0.8.5",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mysql": "^2.18.1"
+  }
+}
