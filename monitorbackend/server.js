@@ -8,8 +8,8 @@ app.use(cors());
 // Database connection
 const db = mysql.createConnection({
   host: 'localhost',
-  user: 'bekrin',
-  password: '3741',
+  user: '',
+  password: '',
   database: 'opencart'
 });
 
